@@ -1,17 +1,22 @@
-# BraintumorDetectionApp
-try {
-    TfLiteBinaryEpochs100 model = TfLiteBinaryEpochs100.newInstance(context);
 
-    // Creates inputs for reference.
-    TensorBuffer inputFeature0 = TensorBuffer.createFixedSize(new int[]{1, 64, 64, 3}, DataType.FLOAT32);
-    inputFeature0.loadBuffer(byteBuffer);
+# Brain Tumor Detection Project
 
-    // Runs model inference and gets result.
-    TfLiteBinaryEpochs100.Outputs outputs = model.process(inputFeature0);
-    TensorBuffer outputFeature0 = outputs.getOutputFeature0AsTensorBuffer();
+## Overview
+This project aims to detect brain tumors using Convolutional Neural Networks (CNNs). We have implemented three different CNN architectures: AlexNet, and ResNet. The project includes a comparative analysis between these models to evaluate their performance in brain tumor detection.
 
-    // Releases model resources if no longer used.
-    model.close();
-} catch (IOException e) {
-    // TODO Handle the exception
-}
+
+## Models Implemented
+
+- CNN
+- ResNet
+- AlexNet
+## Team Members
+
+- [Aditya](https://www.github.com/banzom)
+- [Aditya Tomar](https://www.github.com/CodeX-Addy)
+- [Anurag Chaudhary](https://www.github.com/anurag1chaudhary)
+
+
+
+## License
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the LICENSE file for details.
