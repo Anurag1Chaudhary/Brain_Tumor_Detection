@@ -12,11 +12,7 @@ This project aims to detect brain tumors using Convolutional Neural Networks (CN
 - AlexNet
 ## Team Members
 
-- [Aditya](https://www.github.com/banzom)
-- [Aditya Tomar](https://www.github.com/CodeX-Addy)
-- [Anurag Chaudhary](https://www.github.com/anurag1chaudhary)
-
-
+- [Aditya](https://www.github.com/banzom) - [Aditya Tomar](https://www.github.com/CodeX-Addy) - [Anurag Chaudhary](https://www.github.com/anurag1chaudhary)
 
 ## License
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the LICENSE file for details.
