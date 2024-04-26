@@ -6,6 +6,7 @@ This project aims to detect brain tumors using Convolutional Neural Networks (CN
 
 ![tumordetection2](https://github.com/CodeX-Addy/Brain_Tumor_Detection/assets/104416643/5f34b11b-83d8-4405-b9df-48be70ab64af)
 
+![tumordetection1](https://github.com/CodeX-Addy/Brain_Tumor_Detection/assets/104416643/42553049-2b15-48fe-9da1-ea94571c3d1c)
 
 
 ## Models Implemented
