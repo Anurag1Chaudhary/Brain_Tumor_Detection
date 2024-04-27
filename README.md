@@ -5,8 +5,10 @@
 This project aims to detect brain tumors using Convolutional Neural Networks (CNNs). We have implemented three different CNN architectures: AlexNet, and ResNet. The project includes a comparative analysis between these models to evaluate their performance in brain tumor detection.
                         
 ##Screenshot
+<div style="text-align: center;">
+  <img src="https://github.com/CodeX-Addy/Brain_Tumor_Detection/assets/104416643/5f34b11b-83d8-4405-b9df-48be70ab64af" alt="Centered Image" height = 700, width = 500>
+</div>
 
-<img src="https://github.com/CodeX-Addy/Brain_Tumor_Detection/assets/104416643/5f34b11b-83d8-4405-b9df-48be70ab64af" width="40%" height="0%">
 
 ## Models Implemented
 
